@@ -173,4 +173,4 @@ Pour cela, il suffit de :
 * ```./mvnw clean package  -pl api-springboot ``` : Construction du projet `api-springboot`
 * ```./mvnw quarkus:dev -pl api-quarkus ``` : Lancement du projet `api-quarkus` en mode developpement
 * ```./mvnw clean package  -pl api-quarkus ``` : Construction du projet `api-quarkus` en mode JVM
-* ```./mvnw clean package -Pnative -pl api-quarkus -Dquarkus.native.container-build=false ``` : Construction du projet `api-quarkus` en mode Natif
+* ```./mvnw clean package -P native -Dquarkus.native.container-build=false -Dquarkus.native.native-image-xmx=4g``` : Construction du projet `api-quarkus` en mode Natif
