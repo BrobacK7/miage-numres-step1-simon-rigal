@@ -14,19 +14,19 @@ Réponse: RSS (Resident Set Size) représente la quantité de mémoire RAM actue
 Réponse: La RSS de l'api est d'environ 177,4 MB.
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: Le temps de démarrage est de 2.968 seconds.
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse:Le fichier .jar fait 4.0K.
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse: L'api utilise 98,4 MB de RAM en mode JVM.
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: Le temps de démarraage de l'api est de 1.134s.
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: l'api quarkus en natif utilise en RSS 38,9 MB.
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: Le temps de démarrage en natif est de 0.016s.
